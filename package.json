@@ -15,5 +15,14 @@
     "body-parser": "^2.2.2",
     "express": "^5.2.1",
     "mongoose": "^9.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sankeerthchada/faculty-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sankeerthchada/faculty-api/issues"
+  },
+  "homepage": "https://github.com/Sankeerthchada/faculty-api#readme"
 }
